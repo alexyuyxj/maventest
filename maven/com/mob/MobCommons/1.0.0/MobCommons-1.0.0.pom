@@ -4,5 +4,12 @@
   <groupId>com.mob</groupId>
   <artifactId>MobCommons</artifactId>
   <version>1.0.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.mob</groupId>
+      <artifactId>MobTools</artifactId>
+      <version>RELEASE</version>
+    </dependency>
+  </dependencies>
   <description>POM was created from install:install-file</description>
 </project>
