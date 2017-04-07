@@ -12,5 +12,15 @@
       <scope>compile</scope>
     </dependency>
   </dependencies>
+  <repositories>
+    <repository>
+        <id>com.mob</id>
+        <url>https://raw.githubusercontent.com/alexyuyxj/maventest/master/maven</url>
+        <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>always</updatePolicy>
+        </snapshots>
+    </repository>
+  </repositories>
   <description>POM was created from install:install-file</description>
 </project>
