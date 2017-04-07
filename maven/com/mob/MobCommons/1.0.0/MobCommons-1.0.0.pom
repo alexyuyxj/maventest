@@ -9,6 +9,7 @@
       <groupId>com.mob</groupId>
       <artifactId>MobTools</artifactId>
       <version>1.0.0</version>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
   <description>POM was created from install:install-file</description>
