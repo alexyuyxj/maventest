@@ -11,5 +11,12 @@
       <version>1.0.0</version>
     </dependency>
   </dependencies>
+  <repository>
+    <id>mob-maven</id>
+    <url>https://raw.githubusercontent.com/alexyuyxj/maventest/master/maven</url>
+    <releases>
+      <enabled>true</enabled>
+    </releases>
+  </repository>
   <description>POM was created from install:install-file</description>
 </project>
