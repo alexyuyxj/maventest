@@ -9,20 +9,7 @@
       <groupId>com.mob</groupId>
       <artifactId>MobTools</artifactId>
       <version>1.0.0</version>
-	  <scope>compile</scope>
     </dependency>
   </dependencies>
-  <repositories>
-    <repository>
-      <id>mob-maven</id>
-      <url>https://raw.githubusercontent.com/alexyuyxj/maventest/master/maven</url>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
   <description>POM was created from install:install-file</description>
 </project>
